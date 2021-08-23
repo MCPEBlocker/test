@@ -1,0 +1,1 @@
+<h1 align="center">Welcome to my practice project with Sequelize ORM</h1>
